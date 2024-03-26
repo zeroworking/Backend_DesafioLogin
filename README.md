@@ -13,10 +13,6 @@ Comisión    : 60220.
 
 Alumno      : Jorge Jara.
 
-Entrega     : Desafio Clase 10.
+Entrega     : Desafio Login.
 
-Github      : https://github.com/zeroworking/Backend_DesafioClase10
-# Backend_DesafioClase10
-# Backend_DesafioPracticaIntegradora
-# Backend_E2_PF
-# Backend_E2_PF
+Github      : https://github.com/zeroworking/Backend_DesafioLogin
